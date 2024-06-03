@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui>
+    <frame frame="frame">
+        <frameW>320</frameW>
+        <frameH>480</frameH>
+        <parentImageNum>0</parentImageNum>
+        <parentBackgroundNum>15</parentBackgroundNum>
+        <screenType>2</screenType>
+        <dpi>320*480(HVGA)</dpi>
+        <baud>115200</baud>
+        <blValue>20</blValue>
+        <logo1>-1</logo1>
+        <logo2>-1</logo2>
+        <logox>0</logox>
+        <logoy>0</logoy>
+        <logow>0</logow>
+        <logoh>0</logoh>
+        <logotime>0</logotime>
+        <currentPage>0</currentPage>
+    </frame>
+    <page id="1">
+        <pageImageNum pageImageNum="0"/>
+        <pageBackgroundNum pageBackgroundNum="15"/>
+        <ClassName ClassName="QLabel">
+            <id>0</id>
+            <x>77</x>
+            <y>115</y>
+            <w>225</w>
+            <h>31</h>
+            <text></text>
+            <fontSize>32</fontSize>
+            <hAlign>0</hAlign>
+            <vAlign>0</vAlign>
+            <fontColorNum>51</fontColorNum>
+            <backgroundColorNum>7</backgroundColorNum>
+            <pressColorNum>0</pressColorNum>
+            <imageNum>-1</imageNum>
+            <cutImageNum>-1</cutImageNum>
+            <backgroundImageNum>-1</backgroundImageNum>
+            <backgroundCutImageNum>-1</backgroundCutImageNum>
+            <pressImageNum>-1</pressImageNum>
+            <pressCutImageNum>-1</pressCutImageNum>
+            <progType>0</progType>
+            <style>0</style>
+            <styleColorNum>0</styleColorNum>
+            <pointerX>0</pointerX>
+            <pointerY>0</pointerY>
+            <pointerW>0</pointerW>
+            <pointerL>0</pointerL>
+            <pointerAngle>0</pointerAngle>
+        </ClassName>
+        <ClassName ClassName="QLabel">
+            <id>1</id>
+            <x>75</x>
+            <y>151</y>
+            <w>229</w>
+            <h>32</h>
+            <text></text>
+            <fontSize>32</fontSize>
+            <hAlign>0</hAlign>
+            <vAlign>0</vAlign>
+            <fontColorNum>51</fontColorNum>
+            <backgroundColorNum>7</backgroundColorNum>
+            <pressColorNum>0</pressColorNum>
+            <imageNum>-1</imageNum>
+            <cutImageNum>-1</cutImageNum>
+            <backgroundImageNum>-1</backgroundImageNum>
+            <backgroundCutImageNum>-1</backgroundCutImageNum>
+            <pressImageNum>-1</pressImageNum>
+            <pressCutImageNum>-1</pressCutImageNum>
+            <progType>0</progType>
+            <style>0</style>
+            <styleColorNum>0</styleColorNum>
+            <pointerX>0</pointerX>
+            <pointerY>0</pointerY>
+            <pointerW>0</pointerW>
+            <pointerL>0</pointerL>
+            <pointerAngle>0</pointerAngle>
+        </ClassName>
+    </page>
+</ui>
